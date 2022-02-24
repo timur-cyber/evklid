@@ -313,7 +313,7 @@ body {
     position: relative;
 }
 
-.swiper-container {
+.swiper {
     position: absolute;
     z-index: -1;
     width: 96%;
